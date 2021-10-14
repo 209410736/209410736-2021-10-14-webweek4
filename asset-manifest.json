@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/209410736-2021-10-14-webweek4/static/css/main.048d6862.chunk.css",
+    "main.js": "/209410736-2021-10-14-webweek4/static/js/main.39dd0344.chunk.js",
+    "main.js.map": "/209410736-2021-10-14-webweek4/static/js/main.39dd0344.chunk.js.map",
+    "runtime-main.js": "/209410736-2021-10-14-webweek4/static/js/runtime-main.d448cdb8.js",
+    "runtime-main.js.map": "/209410736-2021-10-14-webweek4/static/js/runtime-main.d448cdb8.js.map",
+    "static/js/2.3d1afb0b.chunk.js": "/209410736-2021-10-14-webweek4/static/js/2.3d1afb0b.chunk.js",
+    "static/js/2.3d1afb0b.chunk.js.map": "/209410736-2021-10-14-webweek4/static/js/2.3d1afb0b.chunk.js.map",
+    "static/js/3.bf65afaf.chunk.js": "/209410736-2021-10-14-webweek4/static/js/3.bf65afaf.chunk.js",
+    "static/js/3.bf65afaf.chunk.js.map": "/209410736-2021-10-14-webweek4/static/js/3.bf65afaf.chunk.js.map",
+    "index.html": "/209410736-2021-10-14-webweek4/index.html",
+    "static/css/main.048d6862.chunk.css.map": "/209410736-2021-10-14-webweek4/static/css/main.048d6862.chunk.css.map",
+    "static/js/2.3d1afb0b.chunk.js.LICENSE.txt": "/209410736-2021-10-14-webweek4/static/js/2.3d1afb0b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d448cdb8.js",
+    "static/js/2.3d1afb0b.chunk.js",
+    "static/css/main.048d6862.chunk.css",
+    "static/js/main.39dd0344.chunk.js"
+  ]
+}
