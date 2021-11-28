@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/209410736-2021-10-14-webweek4/static/css/main.ccbb7bf6.chunk.css",
-    "main.js": "/209410736-2021-10-14-webweek4/static/js/main.d47e6f15.chunk.js",
-    "main.js.map": "/209410736-2021-10-14-webweek4/static/js/main.d47e6f15.chunk.js.map",
-    "runtime-main.js": "/209410736-2021-10-14-webweek4/static/js/runtime-main.849eec73.js",
-    "runtime-main.js.map": "/209410736-2021-10-14-webweek4/static/js/runtime-main.849eec73.js.map",
-    "static/js/2.6f3d9fa6.chunk.js": "/209410736-2021-10-14-webweek4/static/js/2.6f3d9fa6.chunk.js",
-    "static/js/2.6f3d9fa6.chunk.js.map": "/209410736-2021-10-14-webweek4/static/js/2.6f3d9fa6.chunk.js.map",
-    "static/js/3.fd09a73b.chunk.js": "/209410736-2021-10-14-webweek4/static/js/3.fd09a73b.chunk.js",
-    "static/js/3.fd09a73b.chunk.js.map": "/209410736-2021-10-14-webweek4/static/js/3.fd09a73b.chunk.js.map",
+    "main.css": "/209410736-2021-10-14-webweek4/static/css/main.13d4d9c4.chunk.css",
+    "main.js": "/209410736-2021-10-14-webweek4/static/js/main.7dc0e005.chunk.js",
+    "main.js.map": "/209410736-2021-10-14-webweek4/static/js/main.7dc0e005.chunk.js.map",
+    "runtime-main.js": "/209410736-2021-10-14-webweek4/static/js/runtime-main.a9322c6c.js",
+    "runtime-main.js.map": "/209410736-2021-10-14-webweek4/static/js/runtime-main.a9322c6c.js.map",
+    "static/js/2.a1521cb9.chunk.js": "/209410736-2021-10-14-webweek4/static/js/2.a1521cb9.chunk.js",
+    "static/js/2.a1521cb9.chunk.js.map": "/209410736-2021-10-14-webweek4/static/js/2.a1521cb9.chunk.js.map",
+    "static/js/3.958ad0e7.chunk.js": "/209410736-2021-10-14-webweek4/static/js/3.958ad0e7.chunk.js",
+    "static/js/3.958ad0e7.chunk.js.map": "/209410736-2021-10-14-webweek4/static/js/3.958ad0e7.chunk.js.map",
     "index.html": "/209410736-2021-10-14-webweek4/index.html",
-    "static/css/main.ccbb7bf6.chunk.css.map": "/209410736-2021-10-14-webweek4/static/css/main.ccbb7bf6.chunk.css.map",
-    "static/js/2.6f3d9fa6.chunk.js.LICENSE.txt": "/209410736-2021-10-14-webweek4/static/js/2.6f3d9fa6.chunk.js.LICENSE.txt",
+    "static/css/main.13d4d9c4.chunk.css.map": "/209410736-2021-10-14-webweek4/static/css/main.13d4d9c4.chunk.css.map",
+    "static/js/2.a1521cb9.chunk.js.LICENSE.txt": "/209410736-2021-10-14-webweek4/static/js/2.a1521cb9.chunk.js.LICENSE.txt",
     "static/media/crown.207ae289.svg": "/209410736-2021-10-14-webweek4/static/media/crown.207ae289.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.849eec73.js",
-    "static/js/2.6f3d9fa6.chunk.js",
-    "static/css/main.ccbb7bf6.chunk.css",
-    "static/js/main.d47e6f15.chunk.js"
+    "static/js/runtime-main.a9322c6c.js",
+    "static/js/2.a1521cb9.chunk.js",
+    "static/css/main.13d4d9c4.chunk.css",
+    "static/js/main.7dc0e005.chunk.js"
   ]
 }
